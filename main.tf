@@ -1,7 +1,7 @@
 variable "name" {
     description = "name of application"
     type = string
-    # default = "somename"
+    # default = "tschui"
 }
 
 variable "vpc_id" {
